@@ -1,0 +1,3 @@
+$(OPENCV_DIR)\..\..\include
+$(OPENCV_DIR)\lib
+opencv_world310d.lib
